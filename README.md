@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ayubiayub
-- 👀 I’m interested in HTML5, CSS, JAVA
-- 🌱 I’m currently learning HTML5, CSS, JAVA
-- 💞️ I’m looking to collaborate on HTMLS, CSS, JAVA
+- 👀 I’m interested in HTML5, CSS, JAVAscript
+- 🌱 I’m currently learning HTML5, CSS, JAVAscript
+- 💞️ I’m looking to collaborate on HTMLS, CSS, JAVAscript
 - 📫 How to reach me rafiquemuhammadayub@gmail.com
 
 <!---
